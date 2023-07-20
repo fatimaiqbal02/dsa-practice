@@ -1,3 +1,7 @@
+/*
+Name: Fatima Iqbal Mirza
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 struct Node{
