@@ -1,3 +1,8 @@
+/*
+Name: Fatima Iqbal Mirza
+Description: Three types of Insertion Operations in Arrays
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 int orignalSize =10;
