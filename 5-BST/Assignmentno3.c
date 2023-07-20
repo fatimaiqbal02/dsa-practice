@@ -1,3 +1,9 @@
+/*
+Name: Fatima Iqbal Mirza
+Description: Different operations on BST like deletion, insertion, inorder and postorder traversels,etc 
+            (questions given in University's Assignment)
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 struct Node{
