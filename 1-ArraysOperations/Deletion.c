@@ -1,3 +1,8 @@
+/*
+Name: Fatima Iqbal Mirza
+Description: Three types of Delete Operations in Arrays
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 void deleteAtBeginning(int arr[],int size);
